@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "Web Design A-Z"
+    },
+    {
+        "id": "02",
+        "name": "Javascript Hero"
+    },
+    {
+        "id": "03",
+        "name": "React Legend"
+    },
+    {
+        "id": "04",
+        "name": "Python King"
+    },
+    {
+        "id": "05",
+        "name": "Graphics Design Master"
+    },
+    {
+        "id": "06",
+        "name": "Database Integration"
+    },
+    {
+        "id": "07",
+        "name": "Java Emperor"
+    },
+    {
+        "id": "08",
+        "name": "Firebase Authentication"
+    },
+    {
+        "id": "09",
+        "name": "Web Development Superstar"
+    }
+]
