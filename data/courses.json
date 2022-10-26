@@ -1,65 +1,65 @@
 [
     {
-        "id": 1,
-        "category_id": 1,
+        "id": "01",
+        "category_id": "01",
         "title": "Web Design A-Z",
         "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "  Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. This course starts you off with the basic coding language of HTML. This is a very condensed 1 hour tutorial that will show you how to code in HTML. Enroll to begin your journey to be a web development master.  Take this 1 hour course as the absolute first course you take in coding. It's short and to the point. You won't regret it. HTML is the building block of the web and other markup languages. This is the foundational course you need to have in your library.The best part is that this is for complete beginners! Coding is a fantastic career to get into and this is the first course you should take. All web developers start with HTML and it is by far the easiest language to learn.Just think of all of the things you can do in 1 hour and imagine learning a whole new skill. That's why these 1 hour lessons are so valuable. Take a look at the reviews, they speak for themselves."
     },
     {
-        "id": 2,
-        "category_id": 2,
+        "id": "02",
+        "category_id": "02",
         "title": "Javascript Hero",
         "image": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.Thats why you want to learn JavaScript too. And you came to the right place!Why is this the right JavaScript course for you?This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer."
     },
     {
-        "id": 3,
-        "category_id": 3,
+        "id": "03",
+        "category_id": "03",
         "title": "React Legend",
         "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "Welcome to React - The Complete Guide!This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer!No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course!My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!"
     },
     {
-        "id": 4,
-        "category_id": 4,
+        "id": "04",
+        "category_id": "04",
         "title": "Python King",
         "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
         "details": "Become a Python Programmer and learn one of employer's most requested skills of 2022!This is the most comprehensive, yet straight-forward, course for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you! In this course we will teach you Python 3.With over 100 lectures and more than 21 hours of video this comprehensive course leaves no stone unturned! This course includes quizzes, tests, coding exercises and homework assignments as well as 3 major projects to create a Python project portfolio!Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!This course will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered."
     },
     {
-        "id": 5,
-        "category_id": 5,
+        "id": "05",
+        "category_id": "05",
         "title": "Graphics Design Master",
         "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
         "details": "Graphic Design Master Class - Learn GREAT DesignDo you want to learn all the skills and techniques you need to create incredible designs?Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few. We also learn the basics of Adobe Photoshop, illustrator and InDesign and do projects with real world applications. Every designer needs to know and master these programs and this course makes sure you know the essential tools to power through amazing projects. In Adobe Photoshop, we will review photo editing and manipulation techniques like how to cut objects out, duotones, changing color on objects, the liquify tool and we will create a compelling YouTube thumbnail with our newly learned photoshop skills as well as an entire book cover design project. In Adobe Illustrator, we will master the pen tool by hand tracing simple and complex shapes. We will explore the power of the shape builder tool and In the end of this section, we will design a complete logo design. There is an entirely new introduction and tools section that has been added where we work through a 7 page vector tracing worksheet and in the end create a complex vector illustration using our newly learned illustrator vector tools. Lastly, we will put together an event flyer to practice our layout skills, and even work through the branding process and create a logo, business card and letterhead for a business.We will will create a magazine layout in InDesign and learn the master pages tool to drastically speed up your design workflow when working with multiple paged layouts. "
     },
     {
-        "id": 6,
-        "category_id": 6,
+        "id": "06",
+        "category_id": "06",
         "title": "Database Integration",
         "image": "https://images.unsplash.com/photo-1610018556010-6a11691bc905?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "Database Engineering is a very interesting sector in software engineering. If you are interested in learning about database engineering you have come to the right place. I have curated this course carefully to discuss the Fundamental concepts of database engineering.This course will not teach you SQL or programming languages, however, it will teach you skillsets and patterns that you can apply in database engineering. A few of the things that you will learn are Indexing, Partitioning, Sharding, Replication, b-trees in-depth indexing, Concurrency control, database engines and security, and much more.I believe that learning the fundamentals of database engineering will equip you with the necessary means to tackle difficult and challenging problems yourself. I always compare engineering to math, you never memorize specific formulas and equations, you know the basic proves and derive and solve any equation one throws at you. Database engineering is similar, you can't possibly say MongoDB is better than MySQL or Postgres is better than Oracle. Instead, you learn your use case and by understanding how each database platform does its own trade-offs you will be able to make optimal decisions."
     },
     {
-        "id": 7,
-        "category_id": 7,
+        "id": "07",
+        "category_id": "07",
         "title": "Java Emperor",
         "image": "https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "Java is one of the most used programming languages. It's easy to learn and can run on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.Becoming a Java developer creates endless opportunities, and this course will give you a competitive edge.The course is organized around two modules.Module 1 covers Variables, Conditionals, Functions, Loops, and Arrays. You willLearn to store information inside variables.Control how your code runs using conditionals.Organize your code into functions.Run code in a loop.Store many values in an array.Module 2 covers Objects, Exception Handling, Debugging, Unit Testing, Inheritance, Polymorphism, and Concurrency. You willUse objects to write high-quality code.Apply exception handling to produce reliable codeUse breakpoints to debug your code.Use Test-Driven Development to polish your code and avoid bugs.Leverage code-reusability with Inheritance and Polymorphism.Maximize performance with Concurrency.This is the most interactive Java course on the internet. In other words, you will get PLENTY of opportunities to practice!Every module has workbooks, challenges, and a capstone project:The capstone project for Module 1 is Hangman.The capstone project for Module 2 is a Stock-Trading Simulation.We're excited to have you on board. See you in class!"
     },
     {
-        "id": 8,
-        "category_id": 8,
+        "id": "08",
+        "category_id": "08",
         "title": "Firebase Authentication",
         "image": "https://images.unsplash.com/photo-1651235732694-0d057ace2f30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "In this course, we are going to take a sample Angular application and we are going to connect it to a Firestore database. We will learn how to do all sorts of database queries and we will provide a complete CRUD example using AngularFire.We will set up the local development emulator from the very beginning, which will allow us to use a local database with predefined authentication users and some initial data.The emulator will also allow us to test cloud functions locally as well as security rules, which is super convenient.From there, we are going to add security to the application, starting with authentication using Firebase Authentication. We will implement both email and password and social login using the Firebase UI library.We are also going to implement role-based authorization using Firebase Authentication custom claims and the AngularFire Authentication router guard.We will implement an administration screen that allows an existing administrator to create other users, including other administrators in a secure way.For this, we will need some backend code, so we will be using Firebase Cloud Functions for that. We will also show how to use Cloud Functions to implement other commonly used backend features, such as database triggers.We will show how to do secure file upload of an image thumbnail using Firebase Storage.We will end the course by doing a full production deployment using Firebase Hosting, and testing everything out in a non-emulated production environment."
     },
     {
-        "id": 9,
-        "category_id": 9,
+        "id": "09",
+        "category_id": "09",
         "title": "Web Development Superstar",
-        "image": "https://robohash.org/corporisexpeditasequi.png?size=50x50&set=set1",
+        "image": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "details": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery. Here's why:The course is taught by the lead instructor at the App Brewery, London's leading in-person programming bootcamp.The course has been updated to be 2022 ready and you'll be learning the latest tools and technologies used at large companies such as Apple, Google and Netflix.This course doesn't cut any corners, there are beautiful animated explanation videos and tens of real-world projects which you will get to build.The curriculum was developed over a period of four years, with comprehensive student testing and feedback.We've taught over a million students how to code and many have gone on to change their lives by becoming professional developers or starting their own tech startup.You'll save yourself over $12,000 by enrolling, but still get access to the same teaching materials and learn from the same instructor and curriculum as our in-person programming bootcamp.The course is constantly updated with new content, with new projects and modules determined by students - that's you!We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a web developer.The course includes over 65 hours of HD video tutorials and builds your programming knowledge while making real-world websites and web apps."
     }
 ]
