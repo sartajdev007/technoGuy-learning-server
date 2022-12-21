@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000
 const categories = require('./data/categories.json');
 const { request } = require('express');
 const courses = require('./data/courses.json')
+const instructors = require('./data/instructors.json')
 
 app.use(cors())
 
@@ -37,6 +38,10 @@ app.get('/checkout/:id', (req, res) => {
     const id = req.params.id
     const selectedCourse = courses.find(n => n.id === id)
     res.send(selectedCourse)
+})
+
+app.get('/instructors', (req, res) => {
+    res.send(instructors)
 })
 
 app.listen(port, () => {
